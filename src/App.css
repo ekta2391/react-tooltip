@@ -1,0 +1,13 @@
+
+.tooltip-container {
+  position: absolute;
+   z-index: 100;
+   top: 100%;
+   margin: 2px;
+   width: auto;
+}
+
+.info {
+  position: relative;
+  cursor: pointer;
+}
